@@ -1,0 +1,2 @@
+A dependency is a library that a project needs to function effectively. 
+DevDependencies are the packages a developer needs during development
